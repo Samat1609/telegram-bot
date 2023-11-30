@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "122833128896",
+    "project_id": "damir-chat-b8973",
+    "storage_bucket": "damir-chat-b8973.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122833128896:android:a2b830cce41ba486554c25",
+        "android_client_info": {
+          "package_name": "com.example.damir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122833128896-tsk7p770uc66sjhqup6ertgqtv7grdgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.damir",
+            "certificate_hash": "578e0bf10ab3843e41651caf70e8076d25b9548c"
+          }
+        },
+        {
+          "client_id": "122833128896-ltflljndg4isqhov429mc9tnht6667ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQGzpjX0t3LJiiSHAWedI2edmiUJYuEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122833128896-ltflljndg4isqhov429mc9tnht6667ph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122833128896-3m0bonthovhsr82dg9pjifhrncl3qk4u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.damir.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
